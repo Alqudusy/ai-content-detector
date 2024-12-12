@@ -11,13 +11,13 @@ AI Content Detector is a powerful tool designed to analyze and identify AI-gener
 
 ## Demo
 
-Add a live demo link or deployment URL here (e.g., hosted on [Vercel](https://vercel.com)).
+Add a live demo link or deployment URL here (e.g., hosted on [Vercel]([https://vercel.com](https://ai-content-detector-five.vercel.app/))).
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-content-detector.git
+   git clone https://github.com/Alqudusy/ai-content-detector.git
    ```
 2. Navigate to the project directory:
    ```bash
